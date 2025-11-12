@@ -17,3 +17,4 @@ const ProductDetails = async ({params}: {params: Promise<{slug?: string[]}>}) =>
 }
 
 export default ProductDetails
+ 
